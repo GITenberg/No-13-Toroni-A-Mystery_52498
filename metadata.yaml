@@ -1,0 +1,28 @@
+_repo: No-13-Toroni-A-Mystery_52498
+_version: 0.0.1
+alternative_title: 'Number Thirteen Toroni: A Mystery'
+creator:
+  author:
+    agent_name: Regis, Julius
+    alias: Regis, Jul
+    birthdate: 1889
+    deathdate: 1925
+    gutenberg_agent_id: '46896'
+    url: http://www.gutenberg.org/2009/agents/46896
+    wikipedia: https://sv.wikipedia.org/wiki/Julius_Regis
+description: ''
+gutenberg_issued: '2016-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Swedish fiction -- Translations into English'
+- GITenberg
+title: 'No. 13 Toroni: A Mystery'
+url: http://www.gutenberg.org/ebooks/52498
