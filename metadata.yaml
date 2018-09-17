@@ -1,6 +1,9 @@
 _repo: No-13-Toroni-A-Mystery_52498
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Number Thirteen Toroni: A Mystery'
+covers:
+- cover_type: archival
+  image_path: 52498-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Regis, Julius
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46896
     wikipedia: https://sv.wikipedia.org/wiki/Julius_Regis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52498#No-13-Toroni-A-Mystery
 gutenberg_issued: '2016-07-04'
 gutenberg_type: Text
 identifiers:
